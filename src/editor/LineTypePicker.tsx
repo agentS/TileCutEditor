@@ -19,6 +19,7 @@ function LineTypePicker(properties: LineTypePickerProperties) {
 		<div>
 			<input
 				type="radio" name="rbLineType" id="rbLineTypeGlassed"
+				defaultChecked={true}
 				onChange={() => selectLineType(LineType.GLASSED)}
 			/>
 			<label htmlFor="rbLineTypeGlassed">X (Kante überglasiert)</label>

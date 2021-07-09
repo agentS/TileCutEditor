@@ -2,6 +2,7 @@
   "name": "special_tile_configurator_demo",
   "version": "0.0.0",
   "private": true,
+  "homepage": "/tilecuteditor/",
   "dependencies": {
     "@inlet/react-pixi": "^6.6.3",
     "@testing-library/jest-dom": "^5.14.1",
